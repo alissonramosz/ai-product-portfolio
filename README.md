@@ -57,7 +57,7 @@ The [issue tracker](https://github.com/alissonramosz/ai-product-portfolio/issues
 | Work item | State |
 | --- | --- |
 | [Voice-generation lifecycle and credit handling](https://github.com/alissonramosz/ai-product-portfolio/issues/1) | Open — detailed technical follow-up |
-| [Multilingual enquiry routing and human handoff checks](https://github.com/alissonramosz/ai-product-portfolio/issues/2) | Open — evaluation design |
+| [Multilingual enquiry routing and human handoff checks](https://github.com/alissonramosz/ai-product-portfolio/issues/2) | Done — released as [handoff-evals v0.1.0](https://github.com/alissonramosz/handoff-evals) |
 | [Isolated credit settlement for asynchronous jobs](https://github.com/alissonramosz/ai-product-portfolio/issues/3) | Done — released as [credit-ledger v0.1.0](https://github.com/alissonramosz/credit-ledger) |
 
 ## Open-source projects
@@ -67,6 +67,7 @@ Small, complete projects written from scratch, with no client or partner code. T
 | Project | What it is | State |
 | --- | --- | --- |
 | [credit-ledger](https://github.com/alissonramosz/credit-ledger) | Reserve, settle and release credits for async and AI jobs. Idempotent, with an in-memory store and a PostgreSQL store. | v0.1.0; 68 tests, including against a real PostgreSQL server |
+| [handoff-evals](https://github.com/alissonramosz/handoff-evals) | Multilingual test cases and a scorer for AI enquiry routing and human handoff (EN, PT, ES, RU), with a runner for any OpenAI-compatible model. | v0.1.0; 51 tests; no language model evaluated yet |
 
 ## Source availability
 
