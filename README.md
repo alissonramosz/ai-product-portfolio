@@ -58,10 +58,18 @@ The [issue tracker](https://github.com/alissonramosz/ai-product-portfolio/issues
 | --- | --- |
 | [Voice-generation lifecycle and credit handling](https://github.com/alissonramosz/ai-product-portfolio/issues/1) | Open — detailed technical follow-up |
 | [Multilingual enquiry routing and human handoff checks](https://github.com/alissonramosz/ai-product-portfolio/issues/2) | Open — evaluation design |
-| [Isolated credit settlement for asynchronous jobs](https://github.com/alissonramosz/ai-product-portfolio/issues/3) | Open — component design |
+| [Isolated credit settlement for asynchronous jobs](https://github.com/alissonramosz/ai-product-portfolio/issues/3) | Done — released as [credit-ledger v0.1.0](https://github.com/alissonramosz/credit-ledger) |
+
+## Open-source projects
+
+Small, complete projects written from scratch, with no client or partner code. They are separate from the case studies above.
+
+| Project | What it is | State |
+| --- | --- | --- |
+| [credit-ledger](https://github.com/alissonramosz/credit-ledger) | Reserve, settle and release credits for async and AI jobs. Idempotent, with an in-memory store and a PostgreSQL store. | v0.1.0; 68 tests, including against a real PostgreSQL server |
 
 ## Source availability
 
-These repositories are public case studies of real work, not open-source releases of the full applications. Client and partner source, data, media assets and operational configurations remain private. Any standalone code release will identify its own scope separately.
+These repositories are public case studies of real work, not open-source releases of the full applications. Client and partner source, data, media assets and operational configurations remain private. The standalone projects listed above state their own scope.
 
 [About me](https://github.com/alissonramosz)
