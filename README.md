@@ -11,7 +11,7 @@ This collection brings together independently operated products, a partner-built
 | Project | What it does | My role | Current stage |
 | --- | --- | --- | --- |
 | [TTSELEVEN](https://github.com/alissonramosz/ttseleven-case-study) | Speech generation, asynchronous jobs, customer credits and audio history | Owner, developer and operator | Live; marketplace sales |
-| [Flowork](https://github.com/alissonramosz/flowork-case-study) | Real-estate CRM, properties, appointments, negotiations, contracts and AI-assisted service | Product-development partner and full-stack builder | Partner-agency pilot; pre-commercial |
+| [Flowork](https://github.com/alissonramosz/flowork-case-study) | Real-estate CRM, properties, appointments, negotiations, contracts and AI-assisted service | Product-development partner and full-stack builder | Pilot at Imobgreen (partner's agency); pre-commercial |
 
 ## Client applications
 
